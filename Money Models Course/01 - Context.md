@@ -1,4 +1,5 @@
-# Context
+# MM_1. Context_Compressed
+
 $100 million money models the training on how to make money.
 We were going to be covering all of the stuff in the next few hours together.
 You'll also notice that some of these things correspond with the chapters of the book
